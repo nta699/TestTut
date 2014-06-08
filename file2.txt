@@ -1,0 +1,2 @@
+This is text to file2.txt
+I wonder if it makes any difference as to whether a file extension is present or not. We'll see.
